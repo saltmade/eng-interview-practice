@@ -52,6 +52,9 @@
 Copy a grid
 `res = [[0]*n for _ in board]`
 
+Transpose a grid
+`[list(row) for row in zip(*grid)]`
+
 Modify an immutable variable inside func, outside scope
 ```
 def foo():
