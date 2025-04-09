@@ -46,6 +46,10 @@
 - Fibonacci
 	- 0, 1, 1, 2, 3, 5, 8, 13…
 	- $f(n) = f(n-1) + f(n-2)$
+- n choose k
+    - k subarrays of an n length array
+    - $O(n^k)$ (loose upper bound)
+
 
 ## Python
 
