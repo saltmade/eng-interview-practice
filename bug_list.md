@@ -11,3 +11,10 @@ while seeker < len(arr):
     else
         advance seeker
 ```
+
+## Hashmaps
+
+- Hashing algorithms take time, which means if the keys don't have a fixed
+maximum length you must incorporate the hashing algorithm in your complexity
+analysis
+
