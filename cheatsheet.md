@@ -69,3 +69,5 @@ def foo():
 		count += 1
 		res.append(count)
 ```
+
+Max int size is bounded only by memory in Python3
